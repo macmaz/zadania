@@ -1,0 +1,15 @@
+@media all and (max-width: 992px)
+{
+div.product {
+        width: 47%;}
+    
+    }
+
+@media all and (max-width: 480px)
+{
+    
+div.product{
+        width: 75%;
+    margin: 1%;}
+  
+    }
